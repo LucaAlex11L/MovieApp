@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:backgroundTint="#000000"
+    tools:context=".Meniu"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        app:srcCompat="@drawable/aaa" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        app:srcCompat="@drawable/logo2" />
+
+    <Button
+        android:id="@+id/btnFilme"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:layout_weight="1"
+        android:background="#FFA31A"
+        android:text="@string/discover"
+        style="@style/ButtonStyle"/>
+
+    <Button
+        android:id="@+id/btnLista"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_weight="1"
+        android:background="#FFA31A"
+        android:text="@string/lista_mea"
+        style="@style/ButtonStyle"/>
+
+    <Button
+        android:id="@+id/btnVizionate"
+        android:layout_width="match_parent"
+        android:layout_height="19dp"
+        android:layout_weight="1"
+        android:background="#FFA31A"
+        android:text="@string/filme_vizionate"
+        style="@style/ButtonStyle"/>
+
+    <Button
+        android:id="@+id/btnOscar"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:layout_weight="1"
+        android:background="#FFA31A"
+        android:text="@string/filmeOscar"
+        tools:text="Filme de Oscar"
+        style="@style/ButtonStyle"/>
+
+    <Button
+        android:id="@+id/btnStatistici"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:layout_weight="1"
+        android:text="@string/statistici"
+        tools:text="@string/statistici"
+        style="@style/ButtonStyle"/>
+
+    <Switch
+        android:id="@+id/switchTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Switch Theme"
+        style="@style/ButtonStyle"/>
+</LinearLayout>

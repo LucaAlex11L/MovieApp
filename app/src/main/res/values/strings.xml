@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="Name1">Nume:</string>
+    <string name="discover">Discover</string>
+    <string name="filme_vizionate">Filme vizionate</string>
+    <string name="lista_mea">Lista mea</string>
+    <string name="log_out">Log Out</string>
+    <string name="lista_mea_switch">Lista mea</string>
+    <string name="switch_dislike">Dislike</string>
+    <string name="parola">Parola</string>
+    <string name="login">Login</string>
+    <string name="nume">Nume</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="filmeOscar">Filme Oscar</string>
+    <string name="statistici">Statistici</string>
+
+</resources>

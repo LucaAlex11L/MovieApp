@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374666989717",
+    "project_id": "movieapp-483e4",
+    "storage_bucket": "movieapp-483e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374666989717:android:7f31c544530cc1cf1bcb9c",
+        "android_client_info": {
+          "package_name": "com.example.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374666989717-80ajd6uhd1kctvfqi2uf5fqao4808ule.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieapp",
+            "certificate_hash": "36c143291c1e3ac63d09922844cb684dd58a700e"
+          }
+        },
+        {
+          "client_id": "374666989717-4k6p9anrm383pvpvqvi8i1ch8fvtp3i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmeRruo-c85W5dbdtS9p2HQALpcwSWmlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374666989717-4k6p9anrm383pvpvqvi8i1ch8fvtp3i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
